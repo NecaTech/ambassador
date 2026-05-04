@@ -1,10 +1,10 @@
 # AGENT.md — NecaTech Boilerplate
 
-## Detection Boilerplate
+## Projet
 
-Si `git remote get-url origin` contient `necatech-boilerplate` ou que `git remote` est vide, et que la demande ne concerne pas le boilerplate lui-meme :
+Ambassador est un projet issu du boilerplate NecaTech.
 
-> Ce projet est encore configure en tant que boilerplate. Lance `pnpm init-project` pour l'initialiser.
+Objectif: Projet pilote Ambassador construit avec le boilerplate NecaTech.
 
 ## Renvois
 

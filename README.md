@@ -1,6 +1,6 @@
-# NecaTech Boilerplate
+# Ambassador
 
-Production-ready Next.js fullstack starter — prêt à cloner et démarrer un projet client.
+Projet pilote Ambassador construit avec le boilerplate NecaTech.
 
 ## Stack
 

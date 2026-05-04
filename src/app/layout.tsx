@@ -12,10 +12,11 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(env.NEXT_PUBLIC_APP_URL),
   title: {
-    default: "NecaTech App",
-    template: "%s · NecaTech",
+    default: "Ambassador",
+    template: "%s · Ambassador",
   },
-  description: "TODO: describe your app",
+  description:
+    "Projet pilote Ambassador construit avec le boilerplate NecaTech.",
 };
 
 export default function RootLayout({
